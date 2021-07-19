@@ -33,7 +33,7 @@ specialty "computer security"
 * **Epam System (2019)** Software Development Program
 ## Work Experience
 **Research Institute “Centerprogrammsystem”**
-- artist-designer
+- artist-designer  
 *February 2021 – Now*
 ## Languages
 * **Russian** – native
